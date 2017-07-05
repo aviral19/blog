@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post on A Virgin&#39;s Pride</title>
-    <link>http://aviral19.github.io/post/</link>
-    <description>Recent content in Post on A Virgin&#39;s Pride</description>
+    <title>Development on A Virgin&#39;s Pride</title>
+    <link>http://aviral19.github.io/categories/development/</link>
+    <description>Recent content in Development on A Virgin&#39;s Pride</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 05 Jul 2017 20:46:56 +0530</lastBuildDate>
-    <atom:link href="http://aviral19.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://aviral19.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Kofta</title>
@@ -22,17 +22,6 @@
 &lt;p&gt;You are not allowed to cook Kofta alone and not invite your best friend to dinner.&lt;br /&gt;
 This is a level 3 crime and has severe consequences.&lt;br /&gt;
 This post will be deleted as soon as you read it &lt;strong&gt;Pandey&lt;/strong&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>good to great</title>
-      <link>http://aviral19.github.io/post/good-to-great/</link>
-      <pubDate>Wed, 05 Jul 2017 19:41:05 +0530</pubDate>
-      
-      <guid>http://aviral19.github.io/post/good-to-great/</guid>
-      <description>&lt;p&gt;I read &lt;strong&gt;Good to great in January 2016&lt;/strong&gt;. An awesome read sharing detailed
-analsis on how good companies become great&lt;/p&gt;
 </description>
     </item>
     
