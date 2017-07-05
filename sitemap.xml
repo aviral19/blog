@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://aviral19.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aviral19.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://aviral19.github.io/post/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://aviral19.github.io/post/good-to-great/</loc>
+    <lastmod>2017-07-05T19:41:05+05:30</lastmod>
+  </url>
+  
+</urlset>
