@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on A Vigilante&#39;s Pride</title>
-    <link>http://aviral19.github.io/tags/about/</link>
+    <link>http://aviral19.github.io/blog/tags/about/</link>
     <description>Recent content in About on A Vigilante&#39;s Pride</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="http://aviral19.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://aviral19.github.io/blog/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Me</title>
-      <link>http://aviral19.github.io/about/</link>
+      <link>http://aviral19.github.io/blog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://aviral19.github.io/about/</guid>
+      <guid>http://aviral19.github.io/blog/about/</guid>
       <description>
 
 &lt;h2 id=&#34;i-am-aviral-bajpai-pursuing-mechanical-engineering-and-masters-in-biology-from-bits-pilani-goa-campus:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;I am Aviral Bajpai, pursuing Mechanical engineering and Masters in Biology from BITS Pilani, Goa Campus.&lt;/h2&gt;
